@@ -42,7 +42,7 @@ SOURCES = [
 # ─────────────────────────────────────────────────────────────────────────────
 
 OUTPUT_FILE = "blocklist.txt"
-TITLE       = "Combined Blocklist"
+TITLE       = "lakshits11's combined blocklist"
 DESCRIPTION = (
     "Auto-merged and deduplicated blocklist from multiple sources. "
     "Blocks Ads, Tracking, Malware, Phishing, Scam, and more."
