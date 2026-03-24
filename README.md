@@ -18,7 +18,7 @@ Auto-merged and deduplicated combination of top DNS blocklists.
 ## ⚙️ How it works
 
 ```
-Every 12 hours:
+Every 24 hours:
   GitHub Actions runs
     → Downloads all source lists (parallel, streaming)
     → Merges into single set (deduplicates)
