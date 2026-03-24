@@ -2,8 +2,8 @@ name: Update Blocklist
 
 on:
   schedule:
-    # Runs every 12 hours
-    - cron: "0 0 */7 * *"  
+    # Runs every 24 hours
+    - cron: "0 0 */1 * *"  
   workflow_dispatch: # allows manual trigger from Actions tab
 
 permissions:
